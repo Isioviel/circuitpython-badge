@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2"  baseProfile="tiny" x="0in" height="0.134in" viewBox="0 0 134 134" y="0in" width="0.134in">
+    <desc >
+        <referenceFile >lga16_pcb.svg</referenceFile>
+    </desc>
+    <g  gorn="0.1" id="silkscreen" stroke="#b3b3b3" stroke-width="0">
+        <g  gorn="0.1.0" id="g109" stroke="#b3b3b3" stroke-width="0">
+            <title  id="title85">element:E$1</title>
+            <g  stroke="#b3b3b3" stroke-width="0">
+                <title  id="title87">package:QFN-20-0.4MM</title>
+                <line y2="7.94487"  x2="7.94487" gorn="0.1.0.1.1" stroke-linecap="round" id="line89" y1="27.6299" stroke="#b3b3b3" x1="7.94487" stroke-width="5"/>
+                <line y2="7.94487"  x2="27.6299" gorn="0.1.0.1.2" stroke-linecap="round" id="line91" y1="7.94487" stroke="#b3b3b3" x1="7.94487" stroke-width="5"/>
+                <line y2="7.94487"  x2="106.37" gorn="0.1.0.1.3" stroke-linecap="round" id="line93" y1="7.94487" stroke="#b3b3b3" x1="126.055" stroke-width="5"/>
+                <line y2="126.055"  x2="27.6299" gorn="0.1.0.1.4" stroke-linecap="round" id="line95" y1="126.055" stroke="#b3b3b3" x1="7.94487" stroke-width="5"/>
+                <line y2="126.055"  x2="106.37" gorn="0.1.0.1.5" stroke-linecap="round" id="line97" y1="126.055" stroke="#b3b3b3" x1="126.055" stroke-width="5"/>
+                <line y2="7.94487"  x2="126.055" gorn="0.1.0.1.6" stroke-linecap="round" id="line99" y1="27.6299" stroke="#b3b3b3" x1="126.055" stroke-width="5"/>
+                <line y2="126.055"  x2="126.055" gorn="0.1.0.1.7" stroke-linecap="round" id="line101" y1="106.37" stroke="#b3b3b3" x1="126.055" stroke-width="5"/>
+                <line y2="126.055"  x2="7.94487" gorn="0.1.0.1.8" stroke-linecap="round" id="line103" y1="106.37" stroke="#b3b3b3" x1="7.94487" stroke-width="5"/>
+                <circle  gorn="0.1.0.1.9" id="circle105" fill="none" stroke="#b3b3b3" cx="41.0157" cy="41.0157" r="1.9685" stroke-width="5"/>
+            </g>
+        </g>
+    </g>
+    <g  gorn="0.2" id="copper1" stroke-width="0">
+        <g  transform="matrix(0, 1, -1, 0, 65.0314, 34.5197)">
+            <g >
+                <g >
+                    <g  gorn="0.2.0.0.0.0" id="g5">
+                        <g  gorn="0.2.0.0.0.0.0" id="g3" stroke-width="0">
+                            <rect  gorn="0.2.0.0.0.0.0.0" id="connector1pad" x="7.94488" fill="#f7bd13" height="23.6219" stroke="none" y="39.4408" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1, -1.22465e-16, 1.22465e-16, -1, 209.716, 65.1732)">
+            <g >
+                <g >
+                    <g  gorn="0.2.1.0.0.0" id="g10">
+                        <g  gorn="0.2.1.0.0.0.0" id="g8" stroke-width="0">
+                            <rect  gorn="0.2.1.0.0.0.0.0" id="connector13pad" x="118.181" fill="#f7bd13" height="23.6219" stroke="none" y="39.4408" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, 1, -1, 0, 80.7796, 54.2047)">
+            <g >
+                <g >
+                    <g  gorn="0.2.2.0.0.0" id="g16">
+                        <g  gorn="0.2.2.0.0.0.0" id="g14" stroke-width="0">
+                            <rect  gorn="0.2.2.0.0.0.0.0" id="connector2pad" x="7.94488" fill="#f7bd13" height="23.6219" stroke="none" y="55.189" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, -1, 1, 0, 37.3308, 170.488)">
+            <g >
+                <g >
+                    <g  gorn="0.2.3.0.0.0" id="g21">
+                        <g  gorn="0.2.3.0.0.0.0" id="g19" stroke-width="0">
+                            <rect  gorn="0.2.3.0.0.0.0.0" id="connector11pad" x="118.181" fill="#f7bd13" height="23.6219" stroke="none" y="70.9369" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, 1, -1, 0, 202.827, 54.2047)">
+            <g >
+                <g >
+                    <g  gorn="0.2.4.0.0.0" id="g26">
+                        <g  gorn="0.2.4.0.0.0.0" id="g24" stroke-width="0">
+                            <rect  gorn="0.2.4.0.0.0.0.0" id="connector10pad" x="7.94488" fill="#f7bd13" height="23.6219" stroke="none" y="70.9369" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect  gorn="0.2.5" id="connector15pad" x="42.3228" fill="#f7bd13" height="23.6219" stroke="none" y="2.11039" width="9.84252" stroke-width="0"/>
+        <g  transform="matrix(0, 1, -1, 0, 218.575, 73.8898)">
+            <g >
+                <g >
+                    <g  gorn="0.2.6.0.0.0" id="g32">
+                        <g  gorn="0.2.6.0.0.0.0" id="g30" stroke-width="0">
+                            <rect  gorn="0.2.6.0.0.0.0.0" id="connector9pad" x="7.94488" fill="#f7bd13" height="23.6219" stroke="none" y="86.685" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1, 0, 0, -1, 83.7323, 242.338)">
+            <g >
+                <g >
+                    <g  gorn="0.2.7.0.0.0" id="g38">
+                        <g  gorn="0.2.7.0.0.0.0" id="g36" stroke-width="0">
+                            <rect  gorn="0.2.7.0.0.0.0.0" id="connector5pad" x="31.5669" fill="#f7bd13" height="23.6219" stroke="none" y="110.307" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, -1, 1, 0, 53.0787, 150.803)">
+            <g >
+                <g >
+                    <g  gorn="0.2.8.0.0.0" id="g43">
+                        <g  gorn="0.2.8.0.0.0.0" id="g41" stroke-width="0">
+                            <rect  gorn="0.2.8.0.0.0.0.0" id="connector12pad" x="118.181" fill="#f7bd13" height="23.6219" stroke="none" y="55.189" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1, 0, 0, -1, 119.165, 242.338)">
+            <g >
+                <g >
+                    <g  gorn="0.2.9.0.0.0" id="g48">
+                        <g  gorn="0.2.9.0.0.0.0" id="g46" stroke-width="0">
+                            <rect  gorn="0.2.9.0.0.0.0.0" id="connector6pad" x="47.315" fill="#f7bd13" height="23.6219" stroke="none" y="110.307" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1, -1.22465e-16, 1.22465e-16, -1, 190.031, 49.4253)">
+            <g >
+                <g >
+                    <g  gorn="0.2.10.0.0.0" id="g53">
+                        <g  gorn="0.2.10.0.0.0.0" id="g51" stroke-width="0">
+                            <rect  gorn="0.2.10.0.0.0.0.0" id="connector14pad" x="118.181" fill="#f7bd13" height="23.6219" stroke="none" y="23.6929" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1, 0, 0, -1, 154.598, 242.338)">
+            <g >
+                <g >
+                    <g  gorn="0.2.11.0.0.0" id="g58">
+                        <g  gorn="0.2.11.0.0.0.0" id="g56" stroke-width="0">
+                            <rect  gorn="0.2.11.0.0.0.0.0" id="connector7pad" x="63.0631" fill="#f7bd13" height="23.6219" stroke="none" y="110.307" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, 1, -1, 0, 242.197, 22.7087)">
+            <g >
+                <g >
+                    <g  gorn="0.2.12.0.0.0" id="g64">
+                        <g  gorn="0.2.12.0.0.0.0" id="g62" stroke-width="0">
+                            <rect  gorn="0.2.12.0.0.0.0.0" id="connector8pad" x="78.811" fill="#f7bd13" height="23.6219" stroke="none" y="110.307" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, 1, -1, 0, 135.898, 6.96052)">
+            <g >
+                <g >
+                    <g  gorn="0.2.13.0.0.0" id="g70">
+                        <g  gorn="0.2.13.0.0.0.0" id="g68" stroke-width="0">
+                            <rect  gorn="0.2.13.0.0.0.0.0" id="connector4pad" x="94.5592" fill="#f7bd13" height="23.6219" stroke="none" y="110.307" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, -1, 1, 0, -84.7163, 209.858)">
+            <g >
+                <g >
+                    <g  gorn="0.2.14.0.0.0" id="g75">
+                        <g  gorn="0.2.14.0.0.0.0" id="g73" stroke-width="0">
+                            <rect  gorn="0.2.14.0.0.0.0.0" id="connector3pad" x="118.181" fill="#f7bd13" height="23.6219" stroke="none" y="86.685" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0, 1, -1, 0, 49.2835, 14.8347)">
+            <g >
+                <g >
+                    <g  gorn="0.2.15.0.0.0" id="g80">
+                        <g  gorn="0.2.15.0.0.0.0" id="g78" stroke-width="0">
+                            <rect  gorn="0.2.15.0.0.0.0.0" id="connector0pad" x="7.94488" fill="#f7bd13" height="23.6219" stroke="none" y="23.6929" width="9.84252" stroke-width="0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" viewBox="0 0 9.648 9.648" id="svg114"  x="0in" width="0.134in" version="1.2" height="0.134in" gorn="0">
+    <desc >
+        <referenceFile >lga16_pcb.svg</referenceFile>
+    </desc>
+    <metadata id="metadata120" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs118" />
+    <g id="g83"  partID="859116720" gorn="0.3">
+        <g stroke-width="0" id="copper1"  gorn="0.3.0">
+            <g  transform="rotate(90,1.0984226,3.5838406)">
+                <g >
+                    <g id="g5"  gorn="0.3.0.0.0.0">
+                        <g id="g3" stroke-width="0"  gorn="0.3.0.0.0.0.0">
+                            <rect y="2.83974" id="connector1pad" stroke-width="0"  x="0.57203102" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.0.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(-180,7.5497908,2.3462342)">
+                <g >
+                    <g id="g10"  gorn="0.3.0.1.0.0">
+                        <g id="g8" stroke-width="0"  gorn="0.3.0.1.0.0.0">
+                            <rect y="2.83974" id="connector13pad" stroke-width="0"  x="8.5090303" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.1.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(90,0.95669618,4.8594369)">
+                <g >
+                    <g id="g16"  gorn="0.3.0.2.0.0">
+                        <g id="g14" stroke-width="0"  gorn="0.3.0.2.0.0.0">
+                            <rect y="3.9736099" id="connector2pad" stroke-width="0"  x="0.57203102" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.2.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(-90,7.4814798,4.793661)">
+                <g >
+                    <g id="g21"  gorn="0.3.0.3.0.0">
+                        <g id="g19" stroke-width="0"  gorn="0.3.0.3.0.0.0">
+                            <rect y="5.10746" id="connector11pad" stroke-width="0"  x="8.5090303" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.3.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(90,5.3503891,9.2531299)">
+                <g >
+                    <g id="g26"  gorn="0.3.0.4.0.0">
+                        <g id="g24" stroke-width="0"  gorn="0.3.0.4.0.0.0">
+                            <rect y="5.10746" stroke-width="0" id="connector10pad"  x="0.57203102" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.4.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect y="0.15194839" id="connector15pad" stroke-width="0"  x="3.0472441" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.5"/>
+            <g  transform="rotate(90,5.2086577,10.528722)">
+                <g >
+                    <g id="g32"  gorn="0.3.0.6.0.0">
+                        <g id="g30" stroke-width="0"  gorn="0.3.0.6.0.0.0">
+                            <rect y="6.2413201" stroke-width="0" id="connector9pad"  x="0.57203102" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.6.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(180,3.0143628,8.7241821)">
+                <g >
+                    <g id="g38"  gorn="0.3.0.7.0.0">
+                        <g id="g36" stroke-width="0"  gorn="0.3.0.7.0.0.0">
+                            <rect y="7.9421" id="connector5pad" stroke-width="0"  x="2.27282" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.7.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(-90,7.3397435,3.5180745)">
+                <g >
+                    <g id="g43"  gorn="0.3.0.8.0.0">
+                        <g id="g41" stroke-width="0"  gorn="0.3.0.8.0.0.0">
+                            <rect y="3.9736099" stroke-width="0" id="connector12pad"  x="8.5090303" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.8.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(180,4.2899542,8.7241821)">
+                <g >
+                    <g id="g48"  gorn="0.3.0.9.0.0">
+                        <g id="g46" stroke-width="0"  gorn="0.3.0.9.0.0.0">
+                            <rect y="7.9421" id="connector6pad" stroke-width="0"  x="3.4066801" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.9.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(-180,6.8411294,1.7793092)">
+                <g >
+                    <g id="g53"  gorn="0.3.0.10.0.0">
+                        <g id="g51" stroke-width="0"  gorn="0.3.0.10.0.0.0">
+                            <rect y="1.7058901" id="connector14pad" stroke-width="0"  x="8.5090303" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.10.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(180,5.5655457,8.7241821)">
+                <g >
+                    <g id="g58"  gorn="0.3.0.11.0.0">
+                        <g id="g56" stroke-width="0"  gorn="0.3.0.11.0.0.0">
+                            <rect y="7.9421" id="connector7pad" stroke-width="0"  x="4.5405402" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.11.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(90,7.9015657,9.5365933)">
+                <g >
+                    <g id="g64"  gorn="0.3.0.12.0.0">
+                        <g id="g62" stroke-width="0"  gorn="0.3.0.12.0.0.0">
+                            <rect y="7.9421" id="connector8pad" stroke-width="0"  x="5.6743898" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.12.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(90,4.6417329,5.1428903)">
+                <g >
+                    <g id="g70"  gorn="0.3.0.13.0.0">
+                        <g id="g68" stroke-width="0"  gorn="0.3.0.13.0.0.0">
+                            <rect y="7.9421" id="connector4pad" stroke-width="0"  x="6.80826" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.13.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(-90,4.5051047,10.604681)">
+                <g >
+                    <g id="g75"  gorn="0.3.0.14.0.0">
+                        <g id="g73" stroke-width="0"  gorn="0.3.0.14.0.0.0">
+                            <rect y="6.2413201" id="connector3pad" stroke-width="0"  x="8.5090303" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.14.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="rotate(90,1.240159,2.3082542)">
+                <g >
+                    <g id="g80"  gorn="0.3.0.15.0.0">
+                        <g id="g78" stroke-width="0"  gorn="0.3.0.15.0.0.0">
+                            <rect y="1.7058901" stroke-width="0" id="connector0pad"  x="0.57203102" stroke="none" fill="#f7bd13" width="0.70866138" height="1.70078" gorn="0.3.0.15.0.0.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="g112" stroke-width="1"  partID="859116721" stroke="#b3b3b3" gorn="0.4">
+        <g stroke-width="0" id="silkscreen"  stroke="#b3b3b3" gorn="0.4.0">
+            <g stroke-width="0" id="g109"  stroke="#b3b3b3" gorn="0.4.0.0">
+                <title id="title85" >element:E$1</title>
+                <g stroke-width="0"  stroke="#b3b3b3" gorn="0.4.0.0.1">
+                    <title id="title87" >package:QFN-20-0.4MM</title>
+                    <line y2="0.572031" stroke-width="0.36" stroke-linecap="round" id="line89"  stroke="white" style="stroke:#b3b3b3" x1="0.572031" y1="1.98935" x2="0.572031" gorn="0.4.0.0.1.1"/>
+                    <line y2="0.572031" stroke-width="0.36" stroke-linecap="round" id="line91"  stroke="white" style="stroke:#b3b3b3" x1="0.572031" y1="0.572031" x2="1.98935" gorn="0.4.0.0.1.2"/>
+                    <line y2="0.572031" stroke-width="0.36" stroke-linecap="round" id="line93"  stroke="white" style="stroke:#b3b3b3" x1="9.07596" y1="0.572031" x2="7.65864" gorn="0.4.0.0.1.3"/>
+                    <line y2="9.07596" stroke-width="0.36" stroke-linecap="round" id="line95"  stroke="white" style="stroke:#b3b3b3" x1="0.572031" y1="9.07596" x2="1.98935" gorn="0.4.0.0.1.4"/>
+                    <line y2="9.07596" stroke-width="0.36" stroke-linecap="round" id="line97"  stroke="white" style="stroke:#b3b3b3" x1="9.07596" y1="9.07596" x2="7.65864" gorn="0.4.0.0.1.5"/>
+                    <line y2="0.572031" stroke-width="0.36" stroke-linecap="round" id="line99"  stroke="white" style="stroke:#b3b3b3" x1="9.07596" y1="1.98935" x2="9.07596" gorn="0.4.0.0.1.6"/>
+                    <line y2="9.07596" stroke-width="0.36" stroke-linecap="round" id="line101"  stroke="white" style="stroke:#b3b3b3" x1="9.07596" y1="7.65864" x2="9.07596" gorn="0.4.0.0.1.7"/>
+                    <line y2="9.07596" stroke-width="0.36" stroke-linecap="round" id="line103"  stroke="white" style="stroke:#b3b3b3" x1="0.572031" y1="7.65864" x2="0.572031" gorn="0.4.0.0.1.8"/>
+                    <circle cy="2.95313" stroke-width="0.36" id="circle105"  fill="none" stroke="white" style="stroke:#b3b3b3" r="0.141732" cx="2.95313" gorn="0.4.0.0.1.9"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

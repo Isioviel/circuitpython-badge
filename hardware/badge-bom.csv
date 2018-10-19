@@ -1,0 +1,18 @@
+Part/Designator,Manufacture Part Number/Description,Quantity,Remarks/Links
+U4,S25FL216K0PMFI011 flash memory,1,
+U1,ATSAMD21E18A-MU microcontroller,1,
+U3,AP2112K-3.3TRG1 ldo,1,
+U2,IS31FL3733-QFLS4-TR matrix driver,1,
+U5,LIS3DHTR accelerometer,1,
+X1,1981568-1 microusb socket,1,"doesn’t have to be the original – equivalent is fine, for example https://www.aliexpress.com/item/10pcs-lot-5Pin-Micro-USB-5pin-long-pin-SMD-Female-connector-for-mobile-phone-Mini-USB/32803190762.html"
+X2,MK12C02 7-pin SPDT switch,1,"doesn’t have to be the original – equivalent is fine, for example https://www.aliexpress.com/item/10PCS-Lot-MP3-Toggle-Switch-MK12C02-7P-12608-Micro-Switch-Miniature-Toggle-MP3-Key-Button/32812362709.html"
+X3,NRF24L01+ SI24R1 SMD radio module,1,https://www.aliexpress.com/item/Free-Shipping-Power-enhanced-version-SMD-NRF24L01-Wireless-Module-Mini-module-wireless-data-transmission-module/1876127742.html or similar
+"X4,X5",13117BS 7x11 LED matrix red,2,https://www.aliexpress.com/item/Square-LED-Dot-Matrix-Display-11x7-Green-Common-Cathode-Common-Anode-LED-display/32586083418.html
+"C1,C2,C3,C4,C5",1µF 0603 capacitor,5,
+R1,20kOhm 0603 resistor,1,
+"R2,R3",100kOhm 0603 resistor,2,
+"R4,R5",4.7kOhm 0603 resistor,2,
+R6,10kOhm 0603 resistor,1,
+"UP,DOWN,LEFT,RIGHT,x,o,s,z",SMD 6*6*6mm green switch,8,https://www.aliexpress.com/item/4-Pins-SMT-Mini-Hand-Touch-Switch-SMD-Tact-Switch-6-6-6mm-White-Green-Orange/32698050818.html or similar
+"GND 3V3 A0,GND 3V3 SDA SCL",JST 2.0 PH 4-Pin socket,2,
++ -,AAA battery holder,1,https://www.aliexpress.com/item/10PCS-AAA-Batteries-Storage-Case-Plastic-Box-Holder-with-6-Cable-Lead-for-3-x-AAA/32808310246.html or similar

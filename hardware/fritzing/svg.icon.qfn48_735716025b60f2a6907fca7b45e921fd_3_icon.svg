@@ -1,0 +1,1849 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2"  baseProfile="tiny" height="0.6in" x="0in" viewBox="0 0 1800 600" y="0in" width="1.8in">
+    <desc >
+        <referenceFile >QFN-36_breadboard.svg</referenceFile>
+    </desc>
+    <g  gorn="0.1" id="icon" stroke-width="0">
+        <path  d="M0,0L0,270A30,30,0,0,1,0,330L0,600L1800,600L1800,0L0,0z" fill="#1F7A34" stroke="none" stroke-width="0"/>
+        <g  transform="matrix(1, 0, 0, 1, 766, 166)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="matrix(0.5, 0, 0, 0.5, 67, 67)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 110.52, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="50.7324" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 149.89, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="70.4174" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 189.26, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="90.1024" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 228.631, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="109.787" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 268, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="129.472" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 307.369, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="149.157" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 346.74, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="168.843" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 386.11, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="188.528" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 425.481, 504.219)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="208.213" fill="#8c8c8c" stroke="none" y="236.363" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, -1, 1, 0, 39.3701, 464.85)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="196.992" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, -1, 1, 0, 59.0551, 445.165)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="177.307" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 425.481, -78.7401)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="157.622" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 405.794, -98.4251)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="137.937" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 386.11, -118.11)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="118.252" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 366.425, -137.795)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="98.5669" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 346.74, -157.481)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="78.8819" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 327.056, -177.165)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="59.1969" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 307.369, -196.85)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="247.583" fill="#8c8c8c" stroke="none" y="39.5118" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 425.481, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="208.213" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 386.11, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="188.528" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 346.74, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="168.843" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 307.369, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="149.157" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 268, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="129.472" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 228.631, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="109.787" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 189.26, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="90.1024" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 149.89, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="70.4174" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(-1, 0, 0, -1, 110.52, 31.7794)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="50.7324" fill="#8c8c8c" stroke="none" y="0.141733" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 71.1496, 39.3701)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="39.5118" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 90.8346, 59.0551)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="59.1969" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 110.52, 78.7401)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="78.8819" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 130.205, 98.4251)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="98.5669" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 149.89, 118.11)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="118.252" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 169.575, 137.795)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="137.937" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 189.26, 157.481)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="157.622" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 208.944, 177.165)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="177.307" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <g  transform="matrix(0, 1, -1, 0, 228.631, 196.85)">
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g  stroke-width="0">
+                                                                                                        <rect  height="31.4961" x="11.3622" fill="#8c8c8c" stroke="none" y="196.992" width="9.05513" stroke-width="0"/>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                        <rect  height="236.219" x="15.8899" fill="#303030" stroke="none" y="15.8899" width="236.219" stroke-width="0"/>
+                                                                        <polygon  fill="#1f1f1f" points="15.8899,15.8899,252.11,15.8899,242.11,25.8899,25.8899,25.8899" stroke-width="0"/>
+                                                                        <polygon  fill="#1f1f1f" points="15.8899,252.11,252.11,252.11,242.11,242.11,25.8899,242.11" stroke-width="0"/>
+                                                                        <polygon  fill="#000000" points="15.8899,15.8899,15.8899,252.11,25.8899,242.11,25.8899,25.8899" stroke-width="0"/>
+                                                                        <polygon  fill="#3d3d3d" points="252.11,15.8899,252.11,252.11,242.11,242.11,242.11,25.8899" stroke-width="0"/>
+                                                                        <circle  fill="#1f1f1f" stroke="none" cx="45.8899" cy="222.11" r="10" stroke-width="0"/>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text  text-anchor="start" gorn="0.1.2" font-size="65" id="label" x="50" fill="white" stroke="none" y="324.375" font-family="OCRA" stroke-width="0">IC</text>
+        <g  transform="matrix(1, 0, 0, 1, 63.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">1</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 63.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">36</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 163.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">2</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 163.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">35</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 263.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">3</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 263.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">34</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 363.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">4</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 363.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">33</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 463.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">5</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 463.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">32</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 563.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">6</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 563.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">31</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 663.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">7</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 663.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">30</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 763.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">8</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 763.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">29</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 863.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">9</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 863.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">28</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 963.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">10</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 963.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">27</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1063.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">11</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1063.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">26</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1163.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">12</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1163.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">25</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1263.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">13</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1263.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">24</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1363.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">14</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1363.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">23</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1463.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">15</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1463.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">22</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1563.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">16</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1563.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">21</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1663.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">17</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1663.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">20</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1763.5, 526.05)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="start" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">18</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(1, 0, 0, 1, 1763.5, 73.95)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  stroke-width="0">
+                                        <g  transform="rotate(-90)">
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g  stroke-width="0">
+                                                                        <text  text-anchor="end" font-size="45" x="0" fill="white" stroke="none" y="0" font-family="OCRA" stroke-width="0">19</text>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
